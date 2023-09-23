@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python, Machine Learning**
 
-- 💬 Ask me about **C++,C,Python,HTML,CSS,Javascript,Data structure**
+- 💬 Ask me about **C++,C,Python,HTML,CSS,Javascript,Data structure,Java**
 
 - 📫 How to reach me **dhananjay412shukla@gmail.com**
 
