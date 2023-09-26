@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay-shukla12&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay-shukla12" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- 🌱 I’m currently learning **Python, Machine Learning, SAP ABAP**
 
 - 💬 Ask me about **C++,C,Python,HTML,CSS,Javascript,Data structure,Java**
 
