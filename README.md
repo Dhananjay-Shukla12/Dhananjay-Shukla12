@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/d5fe8d27-7a8d-4201-be60-7f445076bdab)![MasterHead]([https://camo.githubusercontent.com/f6a2c625bbd9c52c6847d8368066acb566beb36e08b157577a34d070d03078bf/68747470733a2f2f692e696d6775722e636f6d2f7051574937676e2e676966](https://camo.githubusercontent.com/2a50a7d7ae5024f74fad6ea1cab81c197e975e028147bb9a3d3441296f05af88/68747470733a2f2f70726576696577732e31323372662e636f6d2f696d616765732f6b617270656e6b6f696c69612f6b617270656e6b6f696c6961313830362f6b617270656e6b6f696c69613138303630303031312f3130323938383830362d766563746f722d6c696e652d7765622d636f6e636570742d666f722d70726f6772616d6d696e672d6c696e6561722d7765622d62616e6e65722d666f722d636f64696e672d2e6a7067))
+<p><img align="center" alt="Coding" width="1100" height= "300" src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif"><p>
+<!-- ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9bXV24mVX5eXg4_b2QHp4wAngQdbRBTwyQ&s) -->
 <h1 align="center">Hi 👋, I'm Dhananjay Shukla</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
