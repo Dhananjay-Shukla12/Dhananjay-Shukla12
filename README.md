@@ -1,14 +1,14 @@
 <p><img align="center" alt="Coding" width="1100" height= "300" src="https://i.pinimg.com/originals/80/6e/de/806ede5583f088c6bdb788bf867f8064.gif"><p>
 <!-- ![logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj9bXV24mVX5eXg4_b2QHp4wAngQdbRBTwyQ&s) -->
 <h1 align="center">Hi 👋, I'm Dhananjay Shukla</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Building AI-powered applications with Python while crafting scalable automation solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay-shukla12&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay-shukla12" /> </p>
 
-- 🌱 I’m currently learning **Python, Machine Learning**
+- Focused on building scalable software through Python, automation, and practical AI applications.
 
-- 💬 Ask me about **C++,C,Python,HTML,CSS,Javascript,Data structure,Java**
+- Always interested in solving real-world engineering problems and collaborating on innovative projects.
 
 - 📫 How to reach me **dhananjay412shukla@gmail.com**
 
